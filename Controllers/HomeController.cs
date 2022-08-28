@@ -17,13 +17,13 @@ namespace ApplicationDev.Controllers
         {
             _logger = logger;
         }
-
+asdfsdfasdf
         public IActionResult Index()
         {
             return View(); asdhgjassdhgjkghasfasdfasdasdasdasd
         }
 
-        public IActionResult Privacy()ádsadasdKJLASDJKLASDJKLASD
+        public IActionResult Privacy()ádsadasdKJLASDJKLASDJKLASDasdasdas
         {
             return View();
         }
