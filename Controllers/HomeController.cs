@@ -23,7 +23,7 @@ namespace ApplicationDev.Controllers
             return View();
         }
 
-        public IActionResult Privacy()ádsadasd
+        public IActionResult Privacy()ádsadasdKJLASDJKLASDJKLASD
         {
             return View();
         }
