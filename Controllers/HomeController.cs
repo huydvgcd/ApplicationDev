@@ -20,7 +20,7 @@ namespace ApplicationDev.Controllers
 
         public IActionResult Index()
         {
-            return View(); asdhgjassdhgjkghasfasdf
+            return View(); asdhgjassdhgjkghasfasdfasd
         }
 
         public IActionResult Privacy()ádsadasdKJLASDJKLASDJKLASD
